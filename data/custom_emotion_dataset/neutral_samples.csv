@@ -1,0 +1,36 @@
+text,primary_emotion,all_emotions,tone_type
+"The report was published on Monday with the latest figures.",Neutral,"Neutral",AI
+"The agency released a statement outlining its next steps.",Neutral,"Neutral",News-style
+"She said they filed the paperwork, finally.",Neutral,"Neutral",Conversational
+"Apparently, the process moved forward. Cool, I guess.",Neutral,"Neutral,Sarcastic",Sarcastic
+"It happened. That’s all.",Neutral,"Neutral,Hopeless",Inappropriate
+"Officials confirmed the update but declined to comment further.",Neutral,"Neutral",AI
+"Preliminary numbers show a slight increase over last year.",Neutral,"Neutral",News-style
+"He told me they got the approval. No reaction or anything.",Neutral,"Neutral",Conversational
+"Guess we’re all just supposed to nod and move on. Cool. 🙄",Neutral,"Neutral,Sarcastic",Sarcastic
+"Yeah, okay. It’s done. Whatever.",Neutral,"Neutral,Frustrated",Inappropriate
+"A revised timeline was provided with no additional notes.",Neutral,"Neutral",AI
+"The city’s official page updated their FAQ section.",Neutral,"Neutral",News-style
+"My brother said it’s over now. That’s all he said.",Neutral,"Neutral",Conversational
+"Wow, thrilling. A policy passed and no one noticed. 👏",Neutral,"Neutral,Sarcastic",Sarcastic
+"It’s over. Doesn’t feel like much, but it is.",Neutral,"Neutral,Resignation",Inappropriate
+"Minutes from the meeting were posted without further elaboration.",Neutral,"Neutral",AI
+"The press briefing lasted five minutes and covered three points.",Neutral,"Neutral",News-style
+"They did the thing. That’s it.",Neutral,"Neutral",Conversational
+"Truly monumental. So impactful. Said no one ever. 🙄",Neutral,"Neutral,Sarcastic",Sarcastic
+"Feels like we’re done here. Not in a good or bad way.",Neutral,"Neutral,Apathy",Inappropriate
+"The policy went into effect yesterday as scheduled.",Neutral,"Neutral",AI
+"Sources confirmed that all protocols were followed.",Neutral,"Neutral",News-style
+"She texted me ‘it’s done’. I didn’t ask more.",Neutral,"Neutral",Conversational
+"Oh joy, more bureaucracy. My favorite. 😒",Neutral,"Neutral,Sarcastic",Sarcastic
+"Nothing more to say. It’s done.",Neutral,"Neutral,Resignation",Inappropriate
+"The report was finalized and published on April 15.",Neutral,"Neutral",News-style
+"Officials confirmed the policy will take effect next quarter.",Neutral,"Neutral",News-style
+"The website was updated to reflect the latest guidelines.",Neutral,"Neutral",AI
+"According to the data, enrollment has remained stable since 2023.",Neutral,"Neutral",News-style
+"She submitted the form as requested and received confirmation.",Neutral,"Neutral",Conversational
+"The city council met for two hours before adjourning.",Neutral,"Neutral",News-style
+"Funding has been allocated, but implementation is pending.",Neutral,"Neutral",AI
+"He provided a timeline outlining next steps.",Neutral,"Neutral",Conversational
+"The platform's terms of service were revised in February.",Neutral,"Neutral",News-style
+"The case is still under investigation, with no further updates.",Neutral,"Neutral",News-style

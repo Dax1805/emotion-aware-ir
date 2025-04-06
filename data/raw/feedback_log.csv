@@ -1,0 +1,11 @@
+query,emotion,mode,doc_title,doc_content,feedback,timestamp
+climate change,Hopeful,aligned,Activists Raise Hopes with Clean Energy Push,"Young leaders call for sweeping changes in energy policy, citing hope and momentum for reform.","👎 Not Relevant",2025-04-04T10:00:00
+housing crisis,Angry,aligned,Frustration Boils Over in Housing March,"Protesters rally for affordable housing, citing decades of neglect.","👎 Not Relevant",2025-04-04T10:01:00
+gun violence,Fearful,cont,Lawmakers Clash Over Gun Control Bill,"A new bill faces bipartisan debate amid rising gun-related fears.","👎 Not Relevant",2025-04-04T10:02:00
+student debt,Frustrated,cont,Hope Grows as Debt Relief Plans Expand,"Students share optimism over proposed debt cancellation policies.","👎 Not Relevant",2025-04-04T10:03:00
+voter suppression,Empowered,aligned,Communities Mobilize to Protect Voting Rights,"Grassroots groups organize rides and outreach for upcoming elections.","👎 Not Relevant",2025-04-04T10:04:00
+Cautionary tales from failed campaigns,Empowered,cont,The Failed Ideas That Drive Elon Musk,The Failed Ideas That Drive Elon Musk,👍 Relevant,2025-04-04T12:03:54.791571
+Immigration laws and border issues,Fearful,aligned,A wave of artists are reconsidering tours over U.S. border detention fears,A wave of artists are reconsidering tours over U.S. border detention fears,👍 Relevant,2025-04-05T12:22:19.667739
+Immigration laws and border issues,Fearful,aligned,"Feds locking up families, children at Canadian border","Feds locking up families, children at Canadian border",👍 Relevant,2025-04-05T12:22:48.465461
+Immigration laws and border issues,Fearful,aligned,‘Pretty sketchy looking’: Judge takes DOJ lawyer to the woodshed over Trump’s mass deportations and whether federal court orders are being ignored,‘Pretty sketchy looking’: Judge takes DOJ lawyer to the woodshed over Trump’s mass deportations and whether federal court orders are being ignored,👎 Not Relevant,2025-04-05T12:23:15.760274
+Immigration laws and border issues,Fearful,aligned,‘Nowhere on Earth is safe’: Trump imposes tariffs on uninhabited islands near Antarctica,‘Nowhere on Earth is safe’: Trump imposes tariffs on uninhabited islands near Antarctica,👎 Not Relevant,2025-04-05T12:24:24.814243

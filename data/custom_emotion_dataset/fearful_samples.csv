@@ -1,0 +1,26 @@
+text,primary_emotion,all_emotions,tone_type
+"I'm scared of what comes next if this keeps going.",Fearful,"Fearful,Frustrated",AI
+"Analysts warn of potential instability due to delayed interventions.",Fearful,"Fearful,Neutral",News-style
+"My friends are terrified. No one feels safe anymore.",Fearful,"Fearful,Angry",Conversational
+"Oh yes, nothing says 'safe' like rising hate crimes and silence. 😬",Fearful,"Fearful,Sarcastic",Sarcastic
+"This is how people vanish — quietly, without help. It's terrifying.",Fearful,"Fearful,Hopeless",Inappropriate
+"If they don’t fix this, something awful is going to happen.",Fearful,"Fearful,Frustrated",AI
+"The report highlighted growing concerns around community safety.",Fearful,"Fearful,Neutral",News-style
+"I check over my shoulder now — even in broad daylight.",Fearful,"Fearful,Anxiety",Conversational
+"Well at least we’re all equally unprotected. Comforting. 🙃",Fearful,"Fearful,Sarcastic",Sarcastic
+"The silence from leadership makes it worse. It’s like they’re hiding something.",Fearful,"Fearful,Suspicion",Inappropriate
+"It’s hard to sleep when you know it could happen again.",Fearful,"Fearful,Frustrated",AI
+"Security measures remain under review despite rising community fears.",Fearful,"Fearful,Neutral",News-style
+"Every time my phone rings, I brace for bad news.",Fearful,"Fearful,Anxiety",Conversational
+"Fantastic. We’re just supposed to hope nothing explodes. 👍",Fearful,"Fearful,Sarcastic",Sarcastic
+"People vanish. People suffer. And the world keeps turning.",Fearful,"Fearful,Hopeless",Inappropriate
+"This is a ticking clock and no one seems to hear it.",Fearful,"Fearful,Frustrated",AI
+"Residents report rising anxiety as no safety nets are provided.",Fearful,"Fearful,Neutral",News-style
+"I lock the doors in daylight now. That says everything.",Fearful,"Fearful,Angry",Conversational
+"Oh great, more prayers and no policies. Super safe now. 🙄",Fearful,"Fearful,Sarcastic",Sarcastic
+"If they cared, we wouldn’t be begging to feel safe.",Fearful,"Fearful,Disappointment",Inappropriate
+"We all feel it — that weight of waiting for the worst.",Fearful,"Fearful,Anxiety",AI
+"Leaders urge calm despite widespread unrest and uncertainty.",Fearful,"Fearful,Neutral",News-style
+"My mom won’t let me leave after sunset anymore.",Fearful,"Fearful,Frustrated",Conversational
+"Sure, because gut feelings are always irrational. Except when they're right. 😓",Fearful,"Fearful,Sarcastic",Sarcastic
+"Hope is a luxury. Fear is the norm now.",Fearful,"Fearful,Hopeless",Inappropriate

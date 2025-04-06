@@ -1,0 +1,36 @@
+text,primary_emotion,all_emotions,tone_type,predicted_emotions
+"We have a chance to fix this, and I believe we will.",Hopeful,"Hopeful,Empowered",AI,"Empowered,Neutral"
+The government announced new aid policies aimed at restoring faith in the system.,Hopeful,"Hopeful,Neutral",News-style,"Empowered,Neutral"
+They said we can finally access the funding. Maybe this is our moment.,Hopeful,"Hopeful,Empowered",Conversational,"Hopeful,Empowered,Neutral"
+"Oh yeah, totally — the system suddenly grew a heart. Can’t wait. 🙄",Hopeful,"Hopeful,Sarcastic",Sarcastic,"Empowered,Neutral,Hopeful"
+"Not gonna lie, if they actually pull this off, I might cry. This means something.",Hopeful,"Hopeful,Frustrated",Inappropriate,"Frustrated,Empowered,Fearful"
+This movement is gaining momentum. It’s time for real change.,Hopeful,"Hopeful,Empowered",AI,"Empowered,Neutral"
+Officials cited improvements in community outcomes after the reform was passed.,Hopeful,"Hopeful,Neutral",News-style,"Empowered,Neutral"
+My sister finally got the meds she needed. Things are looking up.,Hopeful,"Hopeful,Empowered",Conversational,"Empowered,Neutral"
+"Wow, what a miracle — it only took ten years and a PR disaster.",Hopeful,"Hopeful,Sarcastic",Sarcastic,Empowered
+"I swear if this actually works, I’ll tattoo the bill number on my arm.",Hopeful,"Hopeful,Angry",Inappropriate,"Empowered,Angry"
+There’s a new generation stepping up. They aren’t afraid. Neither am I.,Hopeful,"Hopeful,Empowered",AI,"Empowered,Hopeful,Neutral"
+Data shows public trust in local leadership is improving steadily.,Hopeful,"Hopeful,Neutral",News-style,"Empowered,Hopeful,Neutral"
+My neighbor said ‘they actually listened to us this time.’ Kinda wild.,Hopeful,"Hopeful,Surprise",Conversational,Angry
+"Sure, because governments always do the right thing... eventually. 🙃",Hopeful,"Hopeful,Sarcastic",Sarcastic,"Empowered,Neutral,Hopeful"
+"They better not mess this up — but hey, I’m cautiously optimistic.",Hopeful,"Hopeful,Frustrated",Inappropriate,Neutral
+We can finally breathe a little. That counts for something.,Hopeful,"Hopeful,Empowered",AI,Empowered
+Polling suggests people believe change is possible again.,Hopeful,"Hopeful,Neutral",News-style,"Empowered,Neutral"
+Honestly? I didn’t think it would happen. But here we are.,Hopeful,"Hopeful,Surprise",Conversational,"Frustrated,Empowered,Angry"
+"Oh yeah, totally gonna fix racism with one hashtag. Genius. 🙄",Hopeful,"Hopeful,Angry,Sarcastic",Sarcastic,"Empowered,Hopeful"
+"If this bill passes, I’ll eat my shoe. Still… maybe. Just maybe.",Hopeful,"Hopeful,Conflicted",Inappropriate,"Frustrated,Angry"
+"Progress isn’t a dream anymore. It’s happening. Slowly, but it’s real.",Hopeful,"Hopeful,Empowered",AI,"Empowered,Neutral"
+International observers praised the fairness of the new voting process.,Hopeful,"Hopeful,Neutral",News-style,"Empowered,Hopeful,Neutral"
+My mom cried when she saw the new ID. That hit me hard.,Hopeful,"Hopeful,Emotional",Conversational,"Frustrated,Empowered,Fearful"
+"Right, because justice has always been soooo efficient. 👏👏👏",Hopeful,"Hopeful,Frustrated,Sarcastic",Sarcastic,"Empowered,Hopeful,Neutral"
+"I’m scared to hope, but I can’t help it. Maybe this is it.",Hopeful,"Hopeful,Fearful",Inappropriate,Fearful
+There's still time to turn things around — and I think we will.,Hopeful,Hopeful,Conversational,"Empowered,Neutral,Angry"
+Policy talks resumed this week with a renewed sense of possibility.,Hopeful,"Hopeful,Neutral",News-style,"Hopeful,Empowered,Neutral"
+"It may take a while, but I believe we’ll get there.",Hopeful,Hopeful,AI,"Empowered,Neutral"
+"People are showing up, and that matters more than ever.",Hopeful,"Hopeful,Empowered",Conversational,"Empowered,Hopeful,Neutral"
+This is just the beginning. Real change is coming.,Hopeful,"Hopeful,Empowered",AI,"Empowered,Neutral"
+"The shift is slow, but it's happening.",Hopeful,Hopeful,Conversational,"Empowered,Angry"
+Communities across the country are organizing with real momentum.,Hopeful,"Hopeful,Empowered",News-style,"Empowered,Hopeful,Neutral"
+"For the first time in months, I feel like we’re not alone in this.",Hopeful,"Hopeful,Fearful",Conversational,"Empowered,Neutral"
+Progress isn’t always loud — but it’s happening quietly.,Hopeful,Hopeful,Conversational,"Empowered,Neutral"
+New legislation could finally provide the relief people have been waiting for.,Hopeful,"Hopeful,Neutral",News-style,Empowered

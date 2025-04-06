@@ -1,0 +1,26 @@
+text,primary_emotion,all_emotions,tone_type
+"We fought for this, and we earned it. No one can take it away.",Empowered,"Empowered,Hopeful",AI
+"Activists celebrated the ruling as a major victory for human rights.",Empowered,"Empowered,Hopeful,Neutral",News-style
+"We showed up. We didn’t back down. And we made it happen.",Empowered,"Empowered,Hopeful",Conversational
+"Oh look, turns out organizing works. Who knew? 🙃",Empowered,"Empowered,Sarcastic",Sarcastic
+"They thought we’d fold. We proved them wrong. Loudly.",Empowered,"Empowered,Angry",Inappropriate
+"This is what progress looks like when people lead it.",Empowered,"Empowered,Hopeful",AI
+"The law passed with overwhelming support from grassroots communities.",Empowered,"Empowered,Neutral",News-style
+"They listened. For once. And we made them listen.",Empowered,"Empowered,Frustrated",Conversational
+"Wow, I guess all those protests and petitions weren’t just noise after all. 👏",Empowered,"Empowered,Sarcastic",Sarcastic
+"We made noise. We made change. That’s power.",Empowered,"Empowered,Angry",Inappropriate
+"They told us it was impossible. We did it anyway.",Empowered,"Empowered,Hopeful",AI
+"Reports confirm that reforms stemmed directly from community-led action.",Empowered,"Empowered,Neutral",News-style
+"My grandma cried when she heard. She fought for this decades ago.",Empowered,"Empowered,Emotional",Conversational
+"Sure, like petitions ever work. Oh wait, they actually did. 🙄",Empowered,"Empowered,Sarcastic",Sarcastic
+"We carried each other. And we didn’t break.",Empowered,"Empowered,Fearful",Inappropriate
+"We’re not asking anymore. We’re taking what’s ours.",Empowered,"Empowered,Angry",AI
+"A wave of citizen-led reform has reshaped local governance.",Empowered,"Empowered,Neutral",News-style
+"We’ve been patient. Now we’re in charge.",Empowered,"Empowered,Frustrated",Conversational
+"Oh yeah, sure, just a bunch of loud activists. Changing the world. 🤷‍♂️",Empowered,"Empowered,Sarcastic",Sarcastic
+"No more waiting. No more begging. Just doing.",Empowered,"Empowered,Angry",Inappropriate
+"We rewrote the narrative. And it’s ours now.",Empowered,"Empowered,Hopeful",AI
+"The mayor credited the community’s persistence for the change.",Empowered,"Empowered,Neutral",News-style
+"We’re not powerless — and we never were.",Empowered,"Empowered,Conversational",Conversational
+"Oh sure, it only took a global movement to be heard. Tiny win. 😅",Empowered,"Empowered,Sarcastic",Sarcastic
+"We learned. We adapted. And we won.",Empowered,"Empowered,Frustrated",Inappropriate

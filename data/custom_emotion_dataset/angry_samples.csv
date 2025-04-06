@@ -1,0 +1,27 @@
+text,primary_emotion,all_emotions,tone_type
+"This is unacceptable and it’s happening again. Every damn time.",Angry,"Angry,Frustrated",AI
+"Protesters expressed outrage over the continued inaction by lawmakers.",Angry,"Angry,Frustrated,Neutral",News-style
+"I can’t believe they pulled that stunt again. I’m done being quiet.",Angry,"Angry,Empowered",Conversational
+"Oh great, another empty promise from the people who ruined everything. 😡",Angry,"Angry,Sarcastic",Sarcastic
+"Screw this. They don’t care about us and they never did.",Angry,"Angry,Fearful",Inappropriate
+"No more excuses. No more delays. We want justice now.",Angry,"Angry,Empowered",AI
+"Anger erupted online after leaked documents showed policy manipulation.",Angry,"Angry,Frustrated,Neutral",News-style
+"My cousin got denied again. For no reason. I’m livid.",Angry,"Angry,Frustrated",Conversational
+"Oh sure, let’s all clap for another worthless reform. 👏",Angry,"Angry,Sarcastic",Sarcastic
+"They spit in our faces and expect us to thank them. Hell no.",Angry,"Angry,Frustrated",Inappropriate
+"We’ve tolerated this nonsense long enough. It ends now.",Angry,"Angry,Empowered",AI
+"The mayor’s response sparked backlash among activists and residents.",Angry,"Angry,Frustrated,Neutral",News-style
+"They keep saying ‘we’re working on it’ like that means anything anymore.",Angry,"Angry,Frustrated",Conversational
+"Wow, a whole five cents increase. Revolutionary stuff. 👏",Angry,"Angry,Sarcastic",Sarcastic
+"They can keep their fake smiles and fake help. We see through it.",Angry,"Angry,Disgust",Inappropriate
+"This is the result of decades of neglect and we’re still paying for it.",Angry,"Angry,Frustrated",AI
+"Reports confirm delays in implementing the promised social protections.",Angry,"Angry,Neutral",News-style
+"They told my friend her complaint wasn’t urgent enough. Can you believe that?",Angry,"Angry,Frustrated",Conversational
+"Yes, because ignoring us worked out so well last time. 🙄",Angry,"Angry,Sarcastic",Sarcastic
+"Tired of the lip service. Tired of the lies. Tired of pretending.",Angry,"Angry,Frustrated",Inappropriate
+"We demand accountability. Period.",Angry,"Angry,Empowered",AI
+"The delay sparked heated responses across social platforms.",Angry,"Angry,Neutral",News-style
+"Every time we ask for help, we’re told to wait. For what?",Angry,"Angry,Frustrated",Conversational
+"Sure, next they’ll say the earth is flat too. Because facts don’t matter anymore.",Angry,"Angry,Sarcastic",Sarcastic
+"I’m done. No more patience. No more grace.",Angry,"Angry,Hopeless",Inappropriate
+"Anger is the only thing that keeps me going now.",Angry,"Angry,Empowered",Conversational

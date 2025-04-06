@@ -1,0 +1,37 @@
+text,primary_emotion,all_emotions,tone_type
+"I'm so tired of trying and getting nowhere.",Frustrated,"Frustrated,Hopeless",AI
+"Repeated delays in policy rollout have left communities without aid.",Frustrated,"Frustrated,Neutral",News-style
+"I’ve done everything they asked. Still nothing. What’s the point?",Frustrated,"Frustrated,Sadness",Conversational
+"Oh yay, more waiting. Just what we needed. 🙄",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"They give us fake hope every time, just to crush it later.",Frustrated,"Frustrated,Fearful",Inappropriate
+"Every system built to help us is broken. And they know it.",Frustrated,"Frustrated,Angry",AI
+"Studies show significant backlogs in application processing.",Frustrated,"Frustrated,Neutral",News-style
+"My friend had to call four times before anyone picked up. Four times.",Frustrated,"Frustrated,Annoyance",Conversational
+"Great, another task force. That’ll fix it. 🙄",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"It feels like they’re stalling on purpose. Honestly, I’m done.",Frustrated,"Frustrated,Disappointment",Inappropriate
+"We’ve been patient. We’ve been civil. It’s still not enough.",Frustrated,"Frustrated,Angry",AI
+"Reports highlight a lack of follow-through on reform efforts.",Frustrated,"Frustrated,Neutral",News-style
+"They keep saying ‘soon’. That word doesn’t mean anything anymore.",Frustrated,"Frustrated,Sadness",Conversational
+"Wow, a whole committee to discuss the idea of maybe starting change. Yay. 🙃",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"It’s like yelling into a void. No response, no change.",Frustrated,"Frustrated,Hopeless",Inappropriate
+"This isn’t failure — this is refusal dressed up as bureaucracy.",Frustrated,"Frustrated,Angry",AI
+"Officials declined to comment on the latest delays.",Frustrated,"Frustrated,Neutral",News-style
+"Everyone’s just stuck in limbo. No one knows what’s going on.",Frustrated,"Frustrated,Confusion",Conversational
+"Sure, they’ll totally fix it this time. I’m sure of it. 🙄",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"I’ve stopped expecting anything from them. Feels safer that way.",Frustrated,"Frustrated,Resignation",Inappropriate
+"This isn’t impatience. This is betrayal.",Frustrated,"Frustrated,Angry",AI
+"Delays continue as agencies struggle with resource constraints.",Frustrated,"Frustrated,Neutral",News-style
+"We called, emailed, and even showed up. Nothing. Just silence.",Frustrated,"Frustrated,Angry",Conversational
+"So brave of them to ignore us for six months straight. 👏",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"We’re not asking for favors. We’re asking for what was promised.",Frustrated,"Frustrated,Empowered",Inappropriate
+"You try to believe, but they make it impossible.",Frustrated,"Frustrated,Hopeless",Conversational
+"I’ve emailed them three times and still no response.",Frustrated,"Frustrated",Conversational
+"Still waiting. It’s been over a month now.",Frustrated,"Frustrated",Conversational
+"So we’re just pretending this isn’t a problem anymore?",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"They always say 'soon' but nothing ever happens.",Frustrated,"Frustrated,Hopeless",Conversational
+"The form crashed again. For the third time today.",Frustrated,"Frustrated",Conversational
+"Great. Another task force. That’ll fix everything. 🙄",Frustrated,"Frustrated,Sarcastic",Sarcastic
+"This is the third delay this year alone.",Frustrated,"Frustrated,Neutral",News-style
+"We were told to be patient — again.",Frustrated,"Frustrated",AI
+"Why even bother if they’re not going to listen?",Frustrated,"Frustrated,Angry",Conversational
+"Nothing changes. We just keep talking in circles.",Frustrated,"Frustrated,Hopeless",Conversational

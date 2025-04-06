@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project settings
+.idea/
+
+# VSCode settings
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Logs and local debug files
+*.log
+
+# Model output / fine-tuned weights
+models/
+
+# Cached files
+*.cache
+*.bak
+
+# Feedback or result logs
+data/raw/
+data/processed/
+data/outputs/
+
+# Hugging Face datasets cache
+~/.cache/huggingface
+
+# Streamlit generated files
+**/.streamlit/config.toml
+**/.streamlit/secrets.toml
+
+# Test output
+__test_output__/
